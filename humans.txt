@@ -1,0 +1,6 @@
+/* TEAM */
+Designed & Developed by Kaushik AI Labs — https://www.kaushikailabs.com
+
+/* SITE */
+Client: Hyderabad Kids Studio - Vizag Baby Studio
+Standards: HTML5, CSS3, ES5+
